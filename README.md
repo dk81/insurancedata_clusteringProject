@@ -127,13 +127,18 @@ From Income vs Monthly Premiums, multiple clustering methods have been tried. Fo
 
 &nbsp;
 
+The image above is showing clusters from K-Means clustering.
+
+&nbsp;
 
 
 # Business Recommendation / Strategy
 
 &nbsp;
 
-From the clustering, there is a higher income group that is paying the same monthly premiums as those in a lower income group. There is an opportunity to try to have these higher income customers pay more on monthly premiums. 
+From the clustering, there is a higher income group (red group) that is paying the same monthly premiums as those in a lower income group (blue group). There is an opportunity to try to have these higher income customers pay more on monthly premiums. That is, move some customers from the red group into the green group. 
+
+There is no need to target / upsell to customers from the green group as they are already paying higher premiums than their peers on the same income level.
 
 Within this target group, I have looked for any customers who have SUVs, sports cars or any luxury vehicles. These customers do have money to pay more for insurance. In addition, SUVs, sports cars and luxury vehicles are higher risks than regular sedans so it would make sense to raise insurance premiums. 
 
