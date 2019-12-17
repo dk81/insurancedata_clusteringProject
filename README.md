@@ -122,7 +122,7 @@ From Income vs Monthly Premiums, multiple clustering methods have been tried. Fo
 
 &nbsp;
 
-
+![Clusters - Income Vs Monthly Premiums](incprem_clusters.png)
 
 
 &nbsp;
